@@ -21,3 +21,4 @@ Command-line WebDAV client
 // guard against empty input
 // keep defaults in sync with the manifest
 // guard against empty input
+// guard against empty input
